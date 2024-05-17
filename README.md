@@ -10,8 +10,11 @@ The implementation follows a systematic approach, starting with data preprocessi
 Key Steps:
 
 Data Preprocessing: Cleaning and preparing the Medium articles dataset for LDA analysis.
+
 LDA Model Training: Utilizing the Gensim library to train the LDA model on the preprocessed dataset.
+
 Coherence Score Calculation: Computing the coherence score to assess the quality and interpretability of the generated topics.
+
 Result Analysis: Analyzing the coherence score results to draw insights and conclusions regarding the effectiveness of the LDA model.
 
 
